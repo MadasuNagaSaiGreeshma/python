@@ -6,3 +6,5 @@ elif(a==scissor and b==paper):
    print("scissor")
 elif(a==rock and b==scissor):
     print("rock")
+else:
+   print("tie")
